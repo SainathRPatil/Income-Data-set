@@ -1,4 +1,4 @@
-# R_Language_Building Logistics Regression_on_Income-Data-set
+# R_Language_Built Logistics Regression_on_Income-Data-set
 
 #library(rpart)
 library(ggplot2)
